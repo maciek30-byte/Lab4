@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>ApiStudent</name>
+    </assembly>
+    <members>
+        <member name="M:ApiStudent.Controllers.StudentsController.GetStudents">
+            <summary>
+            Pobieranie wszystkich Studentów
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:ApiStudent.Controllers.StudentsController.GetStudent(System.Int32)">
+            <summary>
+            Pobieranie studenta po podaniu jego Id
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiStudent.Controllers.StudentsController.PutStudent(System.Int32,ApiStudent.Models.Student)">
+            <summary>
+            Modyfikowaie wybranego studenta
+            </summary>
+            <param name="id"></param>
+            <param name="student"></param>
+            <returns></returns>
+        </member>
+        <member name="M:ApiStudent.Controllers.StudentsController.PostStudent(ApiStudent.Models.Student)">
+            <summary>
+            Wprowadź studenta
+            </summary>
+            <param name="student"></param>
+            <returns>A newly created student</returns>
+            <remarks>
+                Sample request:
+                
+                    POST / Student
+                    {
+                        "id": 1,
+                        "name": "Anna",
+                        "surname": "Test"
+                    }
+            </remarks>
+        </member>
+        <member name="M:ApiStudent.Controllers.StudentsController.DeleteStudent(System.Int32)">
+            <summary>
+            Usuwanie studentów z listy
+            </summary>
+            <param name="id"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,554 @@
+D:\C#\ApiStudent\bin\Debug\net6.0\appsettings.Development.json
+D:\C#\ApiStudent\bin\Debug\net6.0\appsettings.json
+D:\C#\ApiStudent\bin\Debug\net6.0\ApiStudent.exe
+D:\C#\ApiStudent\bin\Debug\net6.0\ApiStudent.deps.json
+D:\C#\ApiStudent\bin\Debug\net6.0\ApiStudent.runtimeconfig.json
+D:\C#\ApiStudent\bin\Debug\net6.0\ApiStudent.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ApiStudent.pdb
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\C#\ApiStudent\obj\Debug\net6.0\ApiStudent.csproj.AssemblyReference.cache
+D:\C#\ApiStudent\obj\Debug\net6.0\ApiStudent.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\ApiStudent\obj\Debug\net6.0\ApiStudent.AssemblyInfoInputs.cache
+D:\C#\ApiStudent\obj\Debug\net6.0\ApiStudent.AssemblyInfo.cs
+D:\C#\ApiStudent\obj\Debug\net6.0\ApiStudent.csproj.CoreCompileInputs.cache
+D:\C#\ApiStudent\obj\Debug\net6.0\ApiStudent.MvcApplicationPartsAssemblyInfo.cs
+D:\C#\ApiStudent\obj\Debug\net6.0\ApiStudent.MvcApplicationPartsAssemblyInfo.cache
+D:\C#\ApiStudent\obj\Debug\net6.0\staticwebassets\msbuild.ApiStudent.Microsoft.AspNetCore.StaticWebAssets.props
+D:\C#\ApiStudent\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiStudent.props
+D:\C#\ApiStudent\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiStudent.props
+D:\C#\ApiStudent\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiStudent.props
+D:\C#\ApiStudent\obj\Debug\net6.0\staticwebassets.pack.json
+D:\C#\ApiStudent\obj\Debug\net6.0\staticwebassets.build.json
+D:\C#\ApiStudent\obj\Debug\net6.0\staticwebassets.development.json
+D:\C#\ApiStudent\obj\Debug\net6.0\scopedcss\bundle\ApiStudent.styles.css
+D:\C#\ApiStudent\obj\Debug\net6.0\ApiStudent.csproj.CopyComplete
+D:\C#\ApiStudent\obj\Debug\net6.0\ApiStudent.dll
+D:\C#\ApiStudent\obj\Debug\net6.0\refint\ApiStudent.dll
+D:\C#\ApiStudent\obj\Debug\net6.0\ApiStudent.pdb
+D:\C#\ApiStudent\obj\Debug\net6.0\ApiStudent.genruntimeconfig.cache
+D:\C#\ApiStudent\obj\Debug\net6.0\ref\ApiStudent.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Humanizer.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\MessagePack.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.Build.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\NuGet.Common.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\C#\ApiStudent\bin\Debug\net6.0\ApiStudent.xml
+D:\C#\ApiStudent\obj\Debug\net6.0\ApiStudent.xml
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\appsettings.Development.json
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\appsettings.json
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ApiStudent.exe
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ApiStudent.deps.json
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ApiStudent.runtimeconfig.json
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ApiStudent.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ApiStudent.pdb
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ApiStudent.xml
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Humanizer.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\JWT.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\MessagePack.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\MessagePack.Annotations.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.Build.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.InMemory.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.OpenApi.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Newtonsoft.Json.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\NuGet.Common.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\NuGet.Configuration.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\NuGet.Frameworks.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\NuGet.LibraryModel.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\NuGet.Packaging.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\NuGet.ProjectModel.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\NuGet.Protocol.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\NuGet.Versioning.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\System.Composition.Convention.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\System.Composition.Hosting.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\System.Composition.Runtime.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\System.Composition.TypedParts.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\System.Drawing.Common.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\System.Runtime.Caching.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\System.Security.Permissions.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\System.Text.Json.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\System.Windows.Extensions.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\obj\Debug\net6.0\ApiStudent.csproj.AssemblyReference.cache
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\obj\Debug\net6.0\ApiStudent.GeneratedMSBuildEditorConfig.editorconfig
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\obj\Debug\net6.0\ApiStudent.AssemblyInfoInputs.cache
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\obj\Debug\net6.0\ApiStudent.AssemblyInfo.cs
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\obj\Debug\net6.0\ApiStudent.csproj.CoreCompileInputs.cache
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\obj\Debug\net6.0\ApiStudent.MvcApplicationPartsAssemblyInfo.cs
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\obj\Debug\net6.0\ApiStudent.MvcApplicationPartsAssemblyInfo.cache
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\obj\Debug\net6.0\staticwebassets\msbuild.ApiStudent.Microsoft.AspNetCore.StaticWebAssets.props
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiStudent.props
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiStudent.props
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiStudent.props
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\obj\Debug\net6.0\staticwebassets.pack.json
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\obj\Debug\net6.0\staticwebassets.build.json
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\obj\Debug\net6.0\staticwebassets.development.json
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\obj\Debug\net6.0\scopedcss\bundle\ApiStudent.styles.css
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\obj\Debug\net6.0\ApiStudent.csproj.CopyComplete
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\obj\Debug\net6.0\ApiStudent.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\obj\Debug\net6.0\refint\ApiStudent.dll
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\obj\Debug\net6.0\ApiStudent.xml
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\obj\Debug\net6.0\ApiStudent.pdb
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\obj\Debug\net6.0\ApiStudent.genruntimeconfig.cache
+M:\studia\!   4 semestr\CW\smolarek\lab1_lab4_13656\obj\Debug\net6.0\ref\ApiStudent.dll
